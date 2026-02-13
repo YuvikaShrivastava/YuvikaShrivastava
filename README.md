@@ -1,59 +1,79 @@
 <h1 align="center">Hi 👋, I'm Yuvika Shrivastava</h1>
-<h3 align="center">AI/ML Enthusiast | Web Developer | Problem Solver</h3>
+<h3 align="center">Cyber Security & Governance Enthusiast | AIML Student | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Yuvika%20Shrivastava-AIML%20Explorer-%23ff69b4?style=for-the-badge&logo=python&logoColor=white&color=ff69b4" />
-  <img src="https://img.shields.io/badge/Web%20Developer-%2300c7a3?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative%20Thinker-%23f39c12?style=for-the-badge&logo=sparkles&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML%20Projects%20In%20Progress-%23a29bfe?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-Enthusiast-%23007ACC?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO%2027001%20Basics-%23ff69b4?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/NIST%20Framework-%2300c7a3?style=for-the-badge&logo=framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/AIML%20Student-%23a29bfe?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Final%20Year%20B.Tech-%2300cec9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
 
+---
 
-🎓 I'm a final-year B.Tech student in Artificial Intelligence & Machine Learning with a **CGPA of 9.36**, passionate about building intelligent systems and user-friendly web experiences.
+🎓 I'm a final-year B.Tech student in Artificial Intelligence & Machine Learning with a **CGPA of 9.55**, building strong analytical and problem-solving skills.
 
-💡 I believe in the power of technology to **simplify lives** and make the digital world smarter.
+🔐 Currently developing foundational knowledge in **Cyber Security, Risk & Compliance**, with exposure to **ISO/IEC 27001:2022 and NIST Cybersecurity Framework**.
 
-
-### 👩‍💻 What I’m currently doing
-
-- 🔭 Working on **ML-based real-world projects** like a K-Drama recommender and text summarizer
-- 🌱 Deepening my skills in **Python, MySQL, JavaScript, and Machine Learning**
-- 🤝 Exploring collaborations in **AI-powered applications** and **NLP projects**
-- 💻 Improving problem-solving with **DSA using Python**
+💡 Interested in structured systems, governance practices, and secure technology implementation in enterprise environments.
 
 ---
 
-### 🚀 Projects I've Worked On
+### 👩‍💻 What I’m currently focusing on
 
-- 🎯 **GK Quiz App**: Terminal-based quiz using Python + MySQL  
-- 🤖 **Text Summarization**: NLP-based summarizer using NLTK  
-- 🎬 **K-Drama Recommendation System**: TF-IDF based CLI recommendation tool  
-- 😄 **Joke Generator**: Web app fetching jokes via APIs with `fetch()` in JS
-- 🎲 **Dice Game**: Web app 2 players dice game using JS
+- 🔐 Learning fundamentals of Cyber Security frameworks (ISO 27001, NIST)
+- 🛡️ Understanding vulnerability assessment concepts (Tenable Nessus – theoretical exposure)
+- 🌐 Exploring network security basics (TCP/IP, ports, firewall concepts)
+- 💻 Strengthening structured problem-solving using Python & SQL
+- 📊 Building logic-based projects with organized data handling
 
-🔗 View them here: [github.com/YuvikaShrivastava](https://github.com/YuvikaShrivastava)
+---
 
+### 🚀 Projects
+
+- 🎯 **GK Quiz App**  
+  Structured quiz system with database storage and input validation to ensure data integrity.
+
+- 📚 **Booster Learning Page**  
+  Web-based learning platform implementing structured data handling and controlled information flow.
+
+- 🎬 **Recommendation System**  
+  Rule-based recommendation logic using structured user preference data for consistent output generation.
+
+🔗 View them here:  
+https://github.com/YuvikaShrivastava
+
+---
 
 ### 📬 How to reach me
 
 - 📧 Email: yasashri.15@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yuvika-shrivastava-436484301)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/yuvika-shrivastava-436484301  
 
+---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technical Skills
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-5B5B5B?style=for-the-badge&logo=nltk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+---
+
+### 🔐 Cyber Security & Governance Awareness
+
+- ISO/IEC 27001:2022 (Basic Understanding)
+- NIST Cybersecurity Framework (Familiar)
+- Vulnerability Assessment Concepts (Tenable Nessus – theoretical exposure)
+- Network Security Fundamentals
+- RFP & Security Documentation Awareness
 
 
 
